@@ -1,0 +1,29 @@
+<table>
+  <tr>
+    <td><font size=6>• Сварка для начинающих. Урок I. Оборудование, экипировка, безопасность >><a HREF="http://qps.ru/j9vUi"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих. Урок II. Базовая техника наложения швов >><a HREF="http://qps.ru/wGyQC"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих. Урок III. Стыковые соединения >><a HREF="http://qps.ru/vWdFQ"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих. Урок IV. Нахлесточные швы >><a HREF="https://www.youtube.com/watch?v=XcL1TYn5Clc&list=PL1J3jAIms1wXtjSpq7JEkHXTGek0NXo_u&index=4"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих. Урок V. Угловые соединения >><a HREF="http://qps.ru/mMjgG"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих Урок VI Тавровые соединения >><a HREF="http://qps.ru/t9WCs"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих Урок VII Кольцевые швы >><a HREF="https://www.youtube.com/watch?v=iniklNac9mY&list=PL1J3jAIms1wXtjSpq7JEkHXTGek0NXo_u&index=7"> Смотреть </a><<</font>	 </td>
+  </tr>
+  <tr>
+  <td><font size=6>• Сварка для начинающих Урок VIII Горизонтальные швы >><a HREF="http://qps.ru/Z8C7P"> Смотреть </a> <<</font>	 </td>
+  </tr>
+</font>
+  </table>
+</body>
+</html> 	
